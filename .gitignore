@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+.tmp
+npm-debug.log
+.vscode
+.history
+.env
+.ini
+
+58d1c2a4a7b4f995969db9b035e3cbca  .gitignore
